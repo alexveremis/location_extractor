@@ -81,6 +81,14 @@ Visit http://localhost:3000 to trigger the extraction manually and get the lates
 
     URL is shown on the console and through a web request
 
+## Deployed with ngrok 🔥
+How to deploy with ngrok
+
+    ngrok config add-authtoken NGROK_AUTH_TOKEN
+    ngrok http http://localhost:3000 #since it runs locally at :3000
+    GET https://1e12-109-178-194-62.ngrok-free.app or something like it from 'Forwarding'
+
+ 
 ## Future Improvements
 Logging System
     
