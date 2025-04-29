@@ -81,6 +81,19 @@ Visit http://localhost:3000 to trigger the extraction manually and get the lates
 
     URL is shown on the console and through a web request
 
+## Future Improvements
+Logging System
+    
+    Add a logging library (like winston for Node.js) to store logs instead of printing them to the console.
+Viber Implementation
+
+    Automatic parsing directly from Viber exported .db files
+
+Configuration via JSON file
+
+    Move parameters like Python script name, text file path, cron timing, and server port to a config.json file for easier customization without changing the code.
+
+
 ## 📜 License
 
 MIT License
