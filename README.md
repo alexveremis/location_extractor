@@ -46,7 +46,7 @@ bash
 
     Make sure you have a text file with your messages (or locations) ready.
 
-##🏃 Usage
+## 🏃 Usage
 
 Run the server:
 
@@ -60,7 +60,7 @@ It will:
 
 Visit http://localhost:3000 to trigger the extraction manually and get the latest Google Maps link.
 
-##📂 File Structure
+## 📂 File Structure
 
 /your-project
 ├── index.js                  # Node.js server and cron job
@@ -81,10 +81,10 @@ Visit http://localhost:3000 to trigger the extraction manually and get the lates
 
     URL is shown on the console and through a web request
 
-##📜 License
+## 📜 License
 
 MIT License
 
-##✨ Author
+## ✨ Author
 
 Made with ❤️ by Alexandros Veremis
